@@ -1,0 +1,2 @@
+[0.0.1_dev] : Fixes previous version's Memory Access issues. Still Unreleased.
+[0.0.0_dev] : This version is prone to crashes. Particularly caused by Memory Access issues.
