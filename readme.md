@@ -11,6 +11,7 @@ It is also made with the intention to look pretty, so you can flex on your frien
 ## Features
 - Basic functions like clock, welcome message, MoTD, and resource usage (like Task Manager).
 - Internal property system, meaning you can alter existing properties, or create new ones, and have them run like mods at runtime. [All with nothing but Notepad. 🚧]
+- Screensaver [🚧]
 - Script Editor [🚧]
 - Script templates [🚧]
 - looks cool 😎
